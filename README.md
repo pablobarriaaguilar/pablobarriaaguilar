@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # ¡Hola! Soy Pablo 👋 
 
 ### 🚀 Ingeniero Informático con certificado en análisis de datos con python y Magíster en Gobierno y Gerencia Pública
